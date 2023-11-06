@@ -1,4 +1,4 @@
-![Jack Engle](https://github.com/kayaked/kayaked/blob/master/splash.png)
+![Jack Engle](https://github.com/kayaked/kayaked/blob/main/splash.png)
 <!--
 **kayaked/kayaked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
